@@ -1,0 +1,1 @@
+sidebarNodes={"extras":[{"id":"api-reference","title":"API Reference","group":"","headers":[{"id":"Modules","anchor":"modules"}]}],"exceptions":[],"modules":[{"id":"Wordcount","title":"Wordcount","group":"","nodeGroups":[{"key":"functions","name":"Functions","nodes":[{"id":"load/1","anchor":"load/1"}]}]}],"tasks":[]}
